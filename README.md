@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 -->
 
 ## 🏢 経歴
-- ~2015 千葉大学工学部
-- 2015-2017 東京工業大学大学院 理工学研究科
-- 2017-2019 Persol Process & Technology, Inc.
-- 2019-2024 STORES, Inc.
+- 2011.3~2015.3 千葉大学工学部
+- 2015.4-2017.3 東京工業大学大学院 理工学研究科
+- 2017.4-2019.7 Persol Process & Technology, Inc.
+- 2019.7-2024.3 [STORES, Inc.](https://www.st.inc/)
+- 2024.4- [SEN, Inc.](https://sencorp.co.jp/)
 - 詳細
    - [Forkwell](https://portfolio.forkwell.com/@daitasu)
    - [Wantedly](https://www.wantedly.com/id/daitasu)
