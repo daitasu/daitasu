@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 - [Hatena Blog](https://daitasu.hatenablog.jp/)
 
 ## 社的なアウトプット
+### SEN, Inc
+- [「我々はどこに向かっているのか」を問い続けるための仕組みづくり](https://speakerdeck.com/daitasu/establishing-a-system-for-continuous-inquiry-about-where-we-are)
+
 ### STORES
 #### テックブログ
 - [職能横断型スクラム体制になってからのチーム改善活動](https://product.st.inc/entry/2020/10/05/110022)
