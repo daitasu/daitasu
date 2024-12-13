@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 ## 🏢 経歴
-- 2011.3~2015.3 千葉大学工学部
-- 2015.4-2017.3 東京工業大学大学院 理工学研究科
-- 2017.4-2019.7 Persol Process & Technology, Inc.
-- 2019.7-2024.3 [STORES, Inc.](https://www.st.inc/)
 - 2024.4- [SEN, Inc.](https://sencorp.co.jp/)
+- 2019.7-2024.3 [STORES, Inc.](https://www.st.inc/)
+- 2017.4-2019.7 Persol Process & Technology, Inc.
+- 2015.4-2017.3 東京工業大学大学院 理工学研究科
+- 2011.3~2015.3 千葉大学工学部
 - 詳細
    - [Forkwell](https://portfolio.forkwell.com/@daitasu)
    - [Wantedly](https://www.wantedly.com/id/daitasu)
@@ -34,9 +34,14 @@ Here are some ideas to get you started:
 
 ## 社的なアウトプット
 ### SEN, Inc
+#### テックブログ
+- [テックブログの立ち上げ](https://productblog.sencorp.co.jp/entry/2024/11/27/153241)
+- [意思決定を残すための大きなADR・小さなADR](https://productblog.sencorp.co.jp/entry/2024/12/05/134904)
+
+#### 社としての登壇
 - [「我々はどこに向かっているのか」を問い続けるための仕組みづくり](https://speakerdeck.com/daitasu/establishing-a-system-for-continuous-inquiry-about-where-we-are)
 
-### STORES
+### STORES, Inc
 #### テックブログ
 - [職能横断型スクラム体制になってからのチーム改善活動](https://product.st.inc/entry/2020/10/05/110022)
 - [フルリモート環境で絆を繋ぐ、 大喜利式チームランチ](https://product.st.inc/entry/2020/12/06/231435)
