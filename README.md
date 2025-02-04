@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 #### テックブログ
 - [テックブログの立ち上げ](https://productblog.sencorp.co.jp/entry/2024/11/27/153241)
 - [意思決定を残すための大きなADR・小さなADR](https://productblog.sencorp.co.jp/entry/2024/12/05/134904)
+- [インフラ知見がないプロダクト開発チームで、新規システムをみんなでTerraform 化した話](https://productblog.sencorp.co.jp/entry/2024/12/18/155512)
 
 #### 社としての登壇
 - [「我々はどこに向かっているのか」を問い続けるための仕組みづくり](https://speakerdeck.com/daitasu/establishing-a-system-for-continuous-inquiry-about-where-we-are)
