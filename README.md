@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 
 ## 🏢 経歴
 - [レジュメ](https://github.com/daitasu/daitasu/blob/main/resume.md)
-- その他媒体
-   - [Forkwell](https://portfolio.forkwell.com/@daitasu)
-   - [Wantedly](https://www.wantedly.com/id/daitasu)
-   - [YOUTRUST](https://youtrust.jp/users/daitasu)
 
 ## 🌐 SNS
 - [Twitter(X)](https://twitter.com/daitasu)
+- [Forkwell](https://portfolio.forkwell.com/@daitasu)
+- [Wantedly](https://www.wantedly.com/id/daitasu)
+- [YOUTRUST](https://youtrust.jp/users/daitasu)
 
 ## 📓 Blog 等
 - [SpeakerDeck](https://speakerdeck.com/daitasu)
