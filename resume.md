@@ -35,6 +35,7 @@
 - [意思決定を残すための大きなADR・小さなADR](https://productblog.sencorp.co.jp/entry/2024/12/05/134904)
 - [インフラ知見がないプロダクト開発チームで、新規システムをみんなでTerraform 化した話](https://productblog.sencorp.co.jp/entry/2024/12/18/155512)
 - [マネージャー委員会の発足によって、組織課題の解決が加速している話](https://productblog.sencorp.co.jp/entry/2025/04/07/165118)
+- [マネージャー委員会：目標設定・評価査定委員会の半年の歩み](https://productblog.sencorp.co.jp/entry/2025/05/27/123000)
 
 ### 登壇
 - [「我々はどこに向かっているのか」を問い続けるための仕組みづくり](https://speakerdeck.com/daitasu/establishing-a-system-for-continuous-inquiry-about-where-we-are)
