@@ -1,5 +1,5 @@
 # 2024.4~ 千株式会社
-## 2025.3~ EM 兼 事業企画室(PdM)
+## 2025.3~ EM 兼 事業企画室(like PdM)
 ### 新規事業立案
 - 既存市場に対する新規事業の立案、販売戦略の策定、アライアンス先検討などの事業開発
 
@@ -44,6 +44,7 @@
 ### 登壇
 - [「我々はどこに向かっているのか」を問い続けるための仕組みづくり](https://speakerdeck.com/daitasu/establishing-a-system-for-continuous-inquiry-about-where-we-are)
 - [TypeScript で Railway Oriented Programming 型安全なエラーハンドリングを作る](https://speakerdeck.com/daitasu/typescript-de-railway-oriented-programming-xing-an-quan-naerahandoringuwozuo-ru)
+- [「みんな、笑顔になぁれ」を実現する 職種混合開発組織の目標設定・評価の改善事例](https://speakerdeck.com/daitasu/minna-xiao-yan-ninaare-woshi-xian-suru-zhi-zhong-hun-he-kai-fa-zu-zhi-nomu-biao-she-ding-ping-jia-nogai-shan-shi-li)
 
 # 2019.7 〜 2024.3 STORES 株式会社
 ## 2022-2024.3 エンジニアリングマネージャー
