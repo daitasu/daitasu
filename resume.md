@@ -40,11 +40,13 @@
 - [インフラ知見がないプロダクト開発チームで、新規システムをみんなでTerraform 化した話](https://productblog.sencorp.co.jp/entry/2024/12/18/155512)
 - [マネージャー委員会の発足によって、組織課題の解決が加速している話](https://productblog.sencorp.co.jp/entry/2025/04/07/165118)
 - [マネージャー委員会：目標設定・評価査定委員会の半年の歩み](https://productblog.sencorp.co.jp/entry/2025/05/27/123000)
+- [「PdM/デザイナー/エンジニア 全員でClaude Codeやるぞ！」から変わり始めたチーム開発のいま](https://productblog.sencorp.co.jp/entry/2025/09/09/185516)
 
 ### 登壇
 - [「我々はどこに向かっているのか」を問い続けるための仕組みづくり](https://speakerdeck.com/daitasu/establishing-a-system-for-continuous-inquiry-about-where-we-are)
 - [TypeScript で Railway Oriented Programming 型安全なエラーハンドリングを作る](https://speakerdeck.com/daitasu/typescript-de-railway-oriented-programming-xing-an-quan-naerahandoringuwozuo-ru)
 - [「みんな、笑顔になぁれ」を実現する 職種混合開発組織の目標設定・評価の改善事例](https://speakerdeck.com/daitasu/minna-xiao-yan-ninaare-woshi-xian-suru-zhi-zhong-hun-he-kai-fa-zu-zhi-nomu-biao-she-ding-ping-jia-nogai-shan-shi-li)
+- [ 職種の壁を溶かして開発サイクルを高速に回す~情報透明性と職種越境から考えるAIフレンドリーな職種間連携~](https://speakerdeck.com/daitasu/zhi-zhong-nobi-worong-kasitekai-fa-saikuruwogao-su-nihui-su-qing-bao-tou-ming-xing-tozhi-zhong-yue-jing-karakao-eruaihurendorinazhi-zhong-jian-lian-xi)
 
 # 2019.7 〜 2024.3 STORES 株式会社
 ## 2022-2024.3 エンジニアリングマネージャー
