@@ -42,6 +42,7 @@
 - [マネージャー委員会：目標設定・評価査定委員会の半年の歩み](https://productblog.sencorp.co.jp/entry/2025/05/27/123000)
 - [「PdM/デザイナー/エンジニア 全員でClaude Codeやるぞ！」から変わり始めたチーム開発のいま](https://productblog.sencorp.co.jp/entry/2025/09/09/185516)
 - [プロダクトブログ開設から1年。採用広報活動の1年の歩み。](https://productblog.sencorp.co.jp/entry/2025/12/10/093533)
+- [権限移譲は、期待役割を「当事者」と「その周り」にも開示しよう](https://productblog.sencorp.co.jp/entry/2025/12/24/111010)
 
 ### 登壇
 - [「我々はどこに向かっているのか」を問い続けるための仕組みづくり](https://speakerdeck.com/daitasu/establishing-a-system-for-continuous-inquiry-about-where-we-are)
