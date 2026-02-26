@@ -119,5 +119,6 @@
 - [Pre Civic Tech Forum 2020 登壇資料](https://speakerdeck.com/cfj_sto/cfj-sto-20200509-stop-covid19-for-npo)
 
 # その他アウトプット
-- 個人的な技術発信ははてなブログに主に記載してます
+- 個人的な技術発信ははてなブログやSpeakerDeck に主に記載してます
    - [恐竜本舗](https://blog.daitasu.work/)
+   - [SpeakerDeck](https://speakerdeck.com/daitasu)
