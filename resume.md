@@ -44,11 +44,17 @@
 - [プロダクトブログ開設から1年。採用広報活動の1年の歩み。](https://productblog.sencorp.co.jp/entry/2025/12/10/093533)
 - [権限移譲は、期待役割を「当事者」と「その周り」にも開示しよう](https://productblog.sencorp.co.jp/entry/2025/12/24/111010)
 
-### 登壇
-- [「我々はどこに向かっているのか」を問い続けるための仕組みづくり](https://speakerdeck.com/daitasu/establishing-a-system-for-continuous-inquiry-about-where-we-are)
-- [TypeScript で Railway Oriented Programming 型安全なエラーハンドリングを作る](https://speakerdeck.com/daitasu/typescript-de-railway-oriented-programming-xing-an-quan-naerahandoringuwozuo-ru)
-- [「みんな、笑顔になぁれ」を実現する 職種混合開発組織の目標設定・評価の改善事例](https://speakerdeck.com/daitasu/minna-xiao-yan-ninaare-woshi-xian-suru-zhi-zhong-hun-he-kai-fa-zu-zhi-nomu-biao-she-ding-ping-jia-nogai-shan-shi-li)
-- [ 職種の壁を溶かして開発サイクルを高速に回す - 情報透明性と職種越境から考えるAIフレンドリーな職種間連携 -](https://speakerdeck.com/daitasu/zhi-zhong-nobi-worong-kasitekai-fa-saikuruwogao-su-nihui-su-qing-bao-tou-ming-xing-tozhi-zhong-yue-jing-karakao-eruaihurendorinazhi-zhong-jian-lian-xi)
+### 社名での登壇
+- 2024.7.23 SEN Developer Meetsup
+   - [「我々はどこに向かっているのか」を問い続けるための仕組みづくり](https://speakerdeck.com/daitasu/establishing-a-system-for-continuous-inquiry-about-where-we-are)
+- 2025.3.19 コネヒトさんとのクローズドイベント
+   - [TypeScript で Railway Oriented Programming 型安全なエラーハンドリングを作る](https://speakerdeck.com/daitasu/typescript-de-railway-oriented-programming-xing-an-quan-naerahandoringuwozuo-ru)
+- 2025.8.22 教えて！おたくの評価制度
+   - [「みんな、笑顔になぁれ」を実現する 職種混合開発組織の目標設定・評価の改善事例](https://speakerdeck.com/daitasu/minna-xiao-yan-ninaare-woshi-xian-suru-zhi-zhong-hun-he-kai-fa-zu-zhi-nomu-biao-she-ding-ping-jia-nogai-shan-shi-li)
+- 2025.9.11 チーム開発を加速する！エンジニア・デザイナー・PdMの職種間連携【D-Plus Tokyo #18】
+   - [ 職種の壁を溶かして開発サイクルを高速に回す - 情報透明性と職種越境から考えるAIフレンドリーな職種間連携 -](https://speakerdeck.com/daitasu/zhi-zhong-nobi-worong-kasitekai-fa-saikuruwogao-su-nihui-su-qing-bao-tou-ming-xing-tozhi-zhong-yue-jing-karakao-eruaihurendorinazhi-zhong-jian-lian-xi)
+- 2026.3.4 Engineering Management Conference Japan 2026
+   - [開発組織の課題解決を加速するための権限委譲 -する側、される側としての向き合い方-](https://speakerdeck.com/daitasu/kai-fa-zu-zhi-noke-ti-jie-jue-wojia-su-surutamenoquan-xian-yi-rang-suruce-sareruce-tositenoxiang-kihe-ifang)
 
 # 2019.7 〜 2024.3 STORES 株式会社
 ## 2022-2024.3 エンジニアリングマネージャー
@@ -79,10 +85,13 @@
 - その他
    - https://tech.hey.jp/search?q=daitasu
 
-### 社としての登壇
-- [STORES.jp Meetup for Front-end Engineers #1](https://hey.connpass.com/event/143246)
-- [Developer Boost 2020](https://event.shoeisha.jp/devboost/20201212/session/2987)
--  [Frontend Talk 〜デザインシステム構築のリアルな裏側〜【hey｜note｜ANDPAD】](https://andpad.connpass.com/event/238368/)
+### 社名での登壇
+- 2019.10.24 STORES.jp Meetup for Front-end Engineers #1
+   - [STORES.jp入社3ヶ月で気づいたこと 〜Nuxt.js 移行における 未来を見据えたコンポーネント設計〜](https://speakerdeck.com/daitasu/components-design-of-frontend-in-stores-dot-jp)
+- 2020.12.12 Developer Boost 2020
+   - [職能横断型スクラム体制になってからのチーム改善活動](https://speakerdeck.com/daitasu/zhi-neng-heng-duan-xing-sukuramuti-zhi-ninatutekarafalsetimugai-shan-huo-dong-improvement-activity-for-multi-functional-team)
+-  2022.03.10 Frontend Talk 〜デザインシステム構築のリアルな裏側〜【hey｜note｜ANDPAD】
+   - [STORES のデザインシステムのこれまでと現状](https://speakerdeck.com/daitasu/designsystem-history-stores-20220310) 
 
 # 2017.4 〜 2019.7 パーソルプロセスアンドテクノロジー株式会社
 ## システムエンジニア
