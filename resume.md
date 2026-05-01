@@ -68,6 +68,7 @@
 - [「PdM/デザイナー/エンジニア 全員でClaude Codeやるぞ！」から変わり始めたチーム開発のいま](https://productblog.sencorp.co.jp/entry/2025/09/09/185516)
 - [プロダクトブログ開設から1年。採用広報活動の1年の歩み。](https://productblog.sencorp.co.jp/entry/2025/12/10/093533)
 - [権限移譲は、期待役割を「当事者」と「その周り」にも開示しよう](https://productblog.sencorp.co.jp/entry/2025/12/24/111010)
+- [AIでPRレビューコメントからコーディングガイドラインを自動更新する](https://productblog.sencorp.co.jp/entry/2026/04/24/162547)
 
 ### 社名での登壇
 - 2024.7.23 SEN Developer Meetsup
