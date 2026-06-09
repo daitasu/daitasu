@@ -1,3 +1,6 @@
+# 2026.6~ コミューン株式会社
+- ソフトウェアエンジニア
+
 # 2024.4~2026.4 千株式会社
 ## 2025.9~2026.4 システム開発部 課長
 ### 組織マネジメント
@@ -157,3 +160,4 @@
 - 個人的な技術発信ははてなブログやSpeakerDeck に主に記載してます
    - [恐竜本舗](https://blog.daitasu.work/)
    - [SpeakerDeck](https://speakerdeck.com/daitasu)
+   - [Zenn](https://zenn.dev/daitasu)
