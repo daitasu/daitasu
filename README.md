@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 - [YOUTRUST](https://youtrust.jp/users/daitasu)
 
 ## 📓 Blog 等
-- [SpeakerDeck](https://speakerdeck.com/daitasu)
+- [個人ブログ](https://daitasu.hatenablog.jp/)... メインブログ
+- [Zenn](https://zenn.dev/daitasu)... 技術系は今後こちらに
+- [SpeakerDeck](https://speakerdeck.com/daitasu)... 登壇資料置き場
 - [Github](https://github.com/daitasu)
 - [Qiita](https://qiita.com/daitasu)
-- [Hatena Blog](https://daitasu.hatenablog.jp/)
