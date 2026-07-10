@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - [Wantedly](https://www.wantedly.com/id/daitasu)
 - [YOUTRUST](https://youtrust.jp/users/daitasu)
 
-## 📓 Blog 等
+## 📓 Output
 - [個人ブログ](https://daitasu.hatenablog.jp/)... メインブログ
 - [Zenn](https://zenn.dev/daitasu)... 技術系は今後こちらに
-- [SpeakerDeck](https://speakerdeck.com/daitasu)... 登壇資料置き場
+- [登壇関係資料](https://talks.daitasu.work/)... 登壇資料置き場
 - [Github](https://github.com/daitasu)
 - [Qiita](https://qiita.com/daitasu)
