@@ -162,3 +162,10 @@
    - [恐竜本舗](https://blog.daitasu.work/)
    - [SpeakerDeck](https://speakerdeck.com/daitasu)
    - [Zenn](https://zenn.dev/daitasu)
+
+ 
+# コミュニティ
+いくつかのコミュニティを運営してます。
+
+- [Tachikawa.any](https://tachikawaany.connpass.com/)
+- [五反田.ts](https://gotanda--ts.connpass.com/)
