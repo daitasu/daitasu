@@ -160,7 +160,7 @@
 # その他アウトプット
 - 個人的な技術発信ははてなブログやSpeakerDeck に主に記載してます
    - [恐竜本舗](https://blog.daitasu.work/)
-   - [SpeakerDeck](https://speakerdeck.com/daitasu)
+   - [登壇資料](https://talks.daitasu.work/)
    - [Zenn](https://zenn.dev/daitasu)
 
  
