@@ -4,12 +4,12 @@
 - [Zenn](https://zenn.dev/daitasu)
 
 # コミュニティ
-いくつかのエンジニアコミュニティを主宰してます。
+いくつかのエンジニアコミュニティを主催してます。
 
 - [Tachikawa.any](https://tachikawaany.connpass.com/)
 - [五反田.ts](https://gotanda--ts.connpass.com/)
 
-# 職歴
+# 経歴
 ## 2026.6~ コミューン株式会社
 - プロダクトエンジニア
 - コミュニティプロダクトのシステムリアーキテクト推進
