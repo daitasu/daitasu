@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🏢 経歴
-- [レジュメ](https://github.com/daitasu/daitasu/blob/main/resume.md)
+- [Resume](https://github.com/daitasu/daitasu/blob/main/resume.md)
 
 ## 🌐 SNS
 - [Twitter(X)](https://twitter.com/daitasu)
@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - [YOUTRUST](https://youtrust.jp/users/daitasu)
 
 ## 📓 Output
-- [個人ブログ](https://daitasu.hatenablog.jp/)... メインブログ
-- [Zenn](https://zenn.dev/daitasu)... 技術系は今後こちらに
-- [登壇関係資料](https://talks.daitasu.work/)... 登壇資料置き場
+- [恐竜本舗](https://blog.daitasu.work/)
+- [Zenn](https://zenn.dev/daitasu)
+- [登壇資料](https://talks.daitasu.work/)
 - [Github](https://github.com/daitasu)
 - [Qiita](https://qiita.com/daitasu)
